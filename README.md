@@ -142,6 +142,10 @@ function HelloWorld({ intl, ...props }) {
 export default injectIntl(HelloWorld);
 ```
 
+## What if I'm using Redux
+Check the [`react-intl-redux` package](https://www.npmjs.com/package/react-intl-redux).  
+Easy to add to your app, their documentation/example should be enough.  
+
 Hope this helped you.  
 Most information comes from [@damonbauer's course](https://egghead.io/courses/add-internationalization-i18n-to-a-react-app-using-react-intl).  
 [Feel free to share your thoughts with me on twitter.](https://twitter.com/eveningkid)
