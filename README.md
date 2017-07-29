@@ -1,6 +1,14 @@
 # How To Use [React-Intl](https://github.com/yahoo/react-intl): internationalize your React app
 > This short tutorial assumes you know about ES6 syntax.
 
+* [Get started](#get-started)
+* [Create a messages file](#create-a-messages-file)
+* [Import messages](#import-messages)
+* [Import languages](#import-languages)
+* [Wrap this up](#wrap-this-up)
+* [Insert messages in your app](#insert-messages-in-your-app)
+* [What if I'm using Redux](#what-if-im-using-redux)
+
 ## Get started
 `yarn add react-intl` or `npm i --save react-intl`.
 
