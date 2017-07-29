@@ -35,7 +35,7 @@ At the **root of your app**, import your messages file:
 import messages from './messages';
 ```
 
-## Import languages for `react-intl`
+## Import languages
 For **each language you're using in your application**, you'll need one additional line on your same **app index file**:
 ```javascript
 // If we're using English and French ('en', 'fr')
